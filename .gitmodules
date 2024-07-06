@@ -1,0 +1,4 @@
+[submodule "CyhOS"]
+	path = CyhOS
+	url = https://github.com/smjh950315/CyhOS
+	branch = test
